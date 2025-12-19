@@ -35,32 +35,6 @@ Missing data for later years is handled using **logical guesstimation techniques
 | **Guesstimation** | Handling missing data |
 
 ---
-
-## 📊 Dashboard Preview
-
-### 🟦 Overall COVID-19 Impact Dashboard
-![Overall Dashboard](images/overview_dashboard.png)
-
-**Description:**  
-Shows total confirmed cases, recoveries, deaths, active cases, and vaccination progress across India with time-based trends.
-
----
-
-### 🟩 State-wise COVID-19 Analysis
-![State-wise Analysis](images/state_analysis.png)
-
-**Description:**  
-Compares states based on confirmed cases, recoveries, deaths, and active cases to identify the most affected regions.
-
----
-
-### 🟨 Vaccination Progress Dashboard
-![Vaccination Dashboard](Images/Vaccination_Analysis.png)
-
-**Description:**  
-Visualizes daily and cumulative vaccination doses and highlights the relationship between vaccination and decline in active cases.
-
----
 ## 🔍 Key Insights
 
 - COVID-19 cases showed sharp spikes during waves followed by recovery peaks  
